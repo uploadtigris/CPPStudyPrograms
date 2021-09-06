@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Tigris/CLionProjects/HeadFilesTutorial/common.h
+header.h
+C:/Users/Tigris/CLionProjects/HeadFilesTutorial/header.h
+
+C:/Users/Tigris/CLionProjects/HeadFilesTutorial/header.h
+
+C:/Users/Tigris/CLionProjects/HeadFilesTutorial/log.cpp
+common.h
+C:/Users/Tigris/CLionProjects/HeadFilesTutorial/common.h
+header.h
+C:/Users/Tigris/CLionProjects/HeadFilesTutorial/header.h
+iostream
+-
+
+C:/Users/Tigris/CLionProjects/HeadFilesTutorial/main.cpp
+iostream
+-
+header.h
+C:/Users/Tigris/CLionProjects/HeadFilesTutorial/header.h
+
