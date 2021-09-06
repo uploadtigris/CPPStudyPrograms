@@ -1,4 +1,0 @@
-"C:\Users\Tigris\AppData\Local\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\Tigris\CLionProjects\HeadFilesTutorial
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/Tigris/CLionProjects/HeadFilesTutorial/cmake-build-debug
