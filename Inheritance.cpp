@@ -14,7 +14,7 @@ public:
     }
 };
                             //Player is now a sub-class of entity
-                            //Player is now a "super-set" of entity, having all entity has an more.
+                            //Player is now a "super-set" of entity, having all entity has and more.
 class Player : public Entity//Player now has everything that entity has.
 {                           //Player class is now everything entity is plus more.
 public:
