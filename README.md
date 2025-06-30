@@ -1,2 +1,2 @@
 # CPPStudyPrograms
-Programs surrounding the understand of objects and processes in C++
+Programs surrounding the understanding of objects and processes in C++
